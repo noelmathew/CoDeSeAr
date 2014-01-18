@@ -1,0 +1,10 @@
+1>------ Build started: Project: Codesear, Configuration: Debug Win32 ------
+1>Compiling...
+1>lanalyzer.cpp
+1>c:\project\codesear\codesear\codesear\lanalyzer.cpp(75) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>        f:\visual studio 9.0\vc\include\stdio.h(366) : see declaration of 'sprintf'
+1>c:\project\codesear\codesear\codesear\lanalyzer.cpp(97) : error C2440: 'initializing' : cannot convert from 'int' to 'char [50]'
+1>        There are no conversions to array types, although there are conversions to references or pointers to arrays
+1>Build log was saved at "file://c:\Project\codesear\Codesear\Codesear\Debug\BuildLog.htm"
+1>Codesear - 1 error(s), 1 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
